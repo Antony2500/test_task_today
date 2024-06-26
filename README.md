@@ -3,6 +3,8 @@
 # at http://0.0.0.0:8000/api/docs you will see documentation for all your endpoints. This is the default path to access 
 the automatically generated API documentation in FastAPI.
 
+# AND DON'T FOTGET THAT I ALSO MADE AUTH SYSTEM SO IF U DON'T DO SIGNUP OR LOGIN U CAN'T USE ANOTHER ENDPOINTS :)
+
 # Start a project using Poetry:
 
 1. Make sure you have Poetry installed. If not, install it with the following command:
